@@ -1,3 +1,4 @@
+import os
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
@@ -22,9 +23,11 @@ palettes=['Accent', 'Accent_r', 'Blues', 'Blues_r', 'BrBG', 'BrBG_r', 'BuGn', 'B
  'rocket', 'rocket_r', 'seismic', 'seismic_r', 'spring', 'spring_r',
  'summer', 'summer_r', 'tab10', 'tab10_r', 'tab20', 'tab20_r', 'tab20b',
  'tab20b_r', 'tab20c', 'tab20c_r', 'terrain', 'terrain_r', 'twilight',
- 'twilight_r', 'twilight_shifted', 'twilight_shifted_r', 'viridis', 'viridis_r', 'vlag', 'vlag_r', 'winter', 'winter_r']
- 
+ 'twilight_r', 'twilight_shifted', 'twilight_shifted_r', 'viridis', 'viridis_r', 'vlag', 'vlag_r', 'winter', 'winter_r',
+ 'deep', 'muted', 'bright', 'pastel', 'dark', 'colorblind', 'husl', 'hls']
 
+os.mkdir("images")
+os.chdir("images")
 for palette in palettes:
     sat_palette = sns.color_palette(palette, n_colors = 60)
     file =  palette + ".png"

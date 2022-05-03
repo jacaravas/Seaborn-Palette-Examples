@@ -1,512 +1,536 @@
 ## Seaborn palettes (n = 60)
 
 Accent
-![Accent](Accent.png)
+![Accent](images/Accent.png)
 
 Accent_r
-![Accent_r](Accent_r.png)
+![Accent_r](images/Accent_r.png)
 
 Blues
-![Blues](Blues.png)
+![Blues](images/Blues.png)
 
 Blues_r
-![Blues_r](Blues_r.png)
+![Blues_r](images/Blues_r.png)
 
 BrBG
-![BrBG](BrBG.png)
+![BrBG](images/BrBG.png)
 
 BrBG_r
-![BrBG_r](BrBG_r.png)
+![BrBG_r](images/BrBG_r.png)
 
 BuGn
-![BuGn](BuGn.png)
+![BuGn](images/BuGn.png)
 
 BuGn_r
-![BuGn_r](BuGn_r.png)
+![BuGn_r](images/BuGn_r.png)
 
 BuPu
-![BuPu](BuPu.png)
+![BuPu](images/BuPu.png)
 
 BuPu_r
-![BuPu_r](BuPu_r.png)
+![BuPu_r](images/BuPu_r.png)
 
 CMRmap
-![CMRmap](CMRmap.png)
+![CMRmap](images/CMRmap.png)
 
 CMRmap_r
-![CMRmap_r](CMRmap_r.png)
+![CMRmap_r](images/CMRmap_r.png)
 
 Dark2
-![Dark2](Dark2.png)
+![Dark2](images/Dark2.png)
 
 Dark2_r
-![Dark2_r](Dark2_r.png)
+![Dark2_r](images/Dark2_r.png)
 
 GnBu
-![GnBu](GnBu.png)
+![GnBu](images/GnBu.png)
 
 GnBu_r
-![GnBu_r](GnBu_r.png)
+![GnBu_r](images/GnBu_r.png)
 
 Greens
-![Greens](Greens.png)
+![Greens](images/Greens.png)
 
 Greens_r
-![Greens_r](Greens_r.png)
+![Greens_r](images/Greens_r.png)
 
 Greys
-![Greys](Greys.png)
+![Greys](images/Greys.png)
 
 Greys_r
-![Greys_r](Greys_r.png)
+![Greys_r](images/Greys_r.png)
 
 OrRd
-![OrRd](OrRd.png)
+![OrRd](images/OrRd.png)
 
 OrRd_r
-![OrRd_r](OrRd_r.png)
+![OrRd_r](images/OrRd_r.png)
 
 Oranges
-![Oranges](Oranges.png)
+![Oranges](images/Oranges.png)
 
 Oranges_r
-![Oranges_r](Oranges_r.png)
+![Oranges_r](images/Oranges_r.png)
 
 PRGn
-![PRGn](PRGn.png)
+![PRGn](images/PRGn.png)
 
 PRGn_r
-![PRGn_r](PRGn_r.png)
+![PRGn_r](images/PRGn_r.png)
 
 Paired
-![Paired](Paired.png)
+![Paired](images/Paired.png)
 
 Paired_r
-![Paired_r](Paired_r.png)
+![Paired_r](images/Paired_r.png)
 
 Pastel1
-![Pastel1](Pastel1.png)
+![Pastel1](images/Pastel1.png)
 
 Pastel1_r
-![Pastel1_r](Pastel1_r.png)
+![Pastel1_r](images/Pastel1_r.png)
 
 Pastel2
-![Pastel2](Pastel2.png)
+![Pastel2](images/Pastel2.png)
 
 Pastel2_r
-![Pastel2_r](Pastel2_r.png)
+![Pastel2_r](images/Pastel2_r.png)
 
 PiYG
-![PiYG](PiYG.png)
+![PiYG](images/PiYG.png)
 
 PiYG_r
-![PiYG_r](PiYG_r.png)
+![PiYG_r](images/PiYG_r.png)
 
 PuBu
-![PuBu](PuBu.png)
+![PuBu](images/PuBu.png)
 
 PuBuGn
-![PuBuGn](PuBuGn.png)
+![PuBuGn](images/PuBuGn.png)
 
 PuBuGn_r
-![PuBuGn_r](PuBuGn_r.png)
+![PuBuGn_r](images/PuBuGn_r.png)
 
 PuBu_r
-![PuBu_r](PuBu_r.png)
+![PuBu_r](images/PuBu_r.png)
 
 PuOr
-![PuOr](PuOr.png)
+![PuOr](images/PuOr.png)
 
 PuOr_r
-![PuOr_r](PuOr_r.png)
+![PuOr_r](images/PuOr_r.png)
 
 PuRd
-![PuRd](PuRd.png)
+![PuRd](images/PuRd.png)
 
 PuRd_r
-![PuRd_r](PuRd_r.png)
+![PuRd_r](images/PuRd_r.png)
 
 Purples
-![Purples](Purples.png)
+![Purples](images/Purples.png)
 
 Purples_r
-![Purples_r](Purples_r.png)
+![Purples_r](images/Purples_r.png)
 
 RdBu
-![RdBu](RdBu.png)
+![RdBu](images/RdBu.png)
 
 RdBu_r
-![RdBu_r](RdBu_r.png)
+![RdBu_r](images/RdBu_r.png)
 
 RdGy
-![RdGy](RdGy.png)
+![RdGy](images/RdGy.png)
 
 RdGy_r
-![RdGy_r](RdGy_r.png)
+![RdGy_r](images/RdGy_r.png)
 
 RdPu
-![RdPu](RdPu.png)
+![RdPu](images/RdPu.png)
 
 RdPu_r
-![RdPu_r](RdPu_r.png)
+![RdPu_r](images/RdPu_r.png)
 
 RdYlBu
-![RdYlBu](RdYlBu.png)
+![RdYlBu](images/RdYlBu.png)
 
 RdYlBu_r
-![RdYlBu_r](RdYlBu_r.png)
+![RdYlBu_r](images/RdYlBu_r.png)
 
 RdYlGn
-![RdYlGn](RdYlGn.png)
+![RdYlGn](images/RdYlGn.png)
 
 RdYlGn_r
-![RdYlGn_r](RdYlGn_r.png)
+![RdYlGn_r](images/RdYlGn_r.png)
 
 Reds
-![Reds](Reds.png)
+![Reds](images/Reds.png)
 
 Reds_r
-![Reds_r](Reds_r.png)
+![Reds_r](images/Reds_r.png)
 
 Set1
-![Set1](Set1.png)
+![Set1](images/Set1.png)
 
 Set1_r
-![Set1_r](Set1_r.png)
+![Set1_r](images/Set1_r.png)
 
 Set2
-![Set2](Set2.png)
+![Set2](images/Set2.png)
 
 Set2_r
-![Set2_r](Set2_r.png)
+![Set2_r](images/Set2_r.png)
 
 Set3
-![Set3](Set3.png)
+![Set3](images/Set3.png)
 
 Set3_r
-![Set3_r](Set3_r.png)
+![Set3_r](images/Set3_r.png)
 
 Spectral
-![Spectral](Spectral.png)
+![Spectral](images/Spectral.png)
 
 Spectral_r
-![Spectral_r](Spectral_r.png)
+![Spectral_r](images/Spectral_r.png)
 
 Wistia
-![Wistia](Wistia.png)
+![Wistia](images/Wistia.png)
 
 Wistia_r
-![Wistia_r](Wistia_r.png)
+![Wistia_r](images/Wistia_r.png)
 
 YlGn
-![YlGn](YlGn.png)
+![YlGn](images/YlGn.png)
 
 YlGnBu
-![YlGnBu](YlGnBu.png)
+![YlGnBu](images/YlGnBu.png)
 
 YlGnBu_r
-![YlGnBu_r](YlGnBu_r.png)
+![YlGnBu_r](images/YlGnBu_r.png)
 
 YlGn_r
-![YlGn_r](YlGn_r.png)
+![YlGn_r](images/YlGn_r.png)
 
 YlOrBr
-![YlOrBr](YlOrBr.png)
+![YlOrBr](images/YlOrBr.png)
 
 YlOrBr_r
-![YlOrBr_r](YlOrBr_r.png)
+![YlOrBr_r](images/YlOrBr_r.png)
 
 YlOrRd
-![YlOrRd](YlOrRd.png)
+![YlOrRd](images/YlOrRd.png)
 
 YlOrRd_r
-![YlOrRd_r](YlOrRd_r.png)
+![YlOrRd_r](images/YlOrRd_r.png)
 
 afmhot
-![afmhot](afmhot.png)
+![afmhot](images/afmhot.png)
 
 afmhot_r
-![afmhot_r](afmhot_r.png)
+![afmhot_r](images/afmhot_r.png)
 
 autumn
-![autumn](autumn.png)
+![autumn](images/autumn.png)
 
 autumn_r
-![autumn_r](autumn_r.png)
+![autumn_r](images/autumn_r.png)
 
 binary
-![binary](binary.png)
+![binary](images/binary.png)
 
 binary_r
-![binary_r](binary_r.png)
+![binary_r](images/binary_r.png)
 
 bone
-![bone](bone.png)
+![bone](images/bone.png)
 
 bone_r
-![bone_r](bone_r.png)
+![bone_r](images/bone_r.png)
 
 brg
-![brg](brg.png)
+![brg](images/brg.png)
 
 brg_r
-![brg_r](brg_r.png)
+![brg_r](images/brg_r.png)
+
+bright
+![bright](images/bright.png)
 
 bwr
-![bwr](bwr.png)
+![bwr](images/bwr.png)
 
 bwr_r
-![bwr_r](bwr_r.png)
+![bwr_r](images/bwr_r.png)
 
 cividis
-![cividis](cividis.png)
+![cividis](images/cividis.png)
 
 cividis_r
-![cividis_r](cividis_r.png)
+![cividis_r](images/cividis_r.png)
+
+colorblind
+![colorblind](images/colorblind.png)
 
 cool
-![cool](cool.png)
+![cool](images/cool.png)
 
 cool_r
-![cool_r](cool_r.png)
+![cool_r](images/cool_r.png)
 
 coolwarm
-![coolwarm](coolwarm.png)
+![coolwarm](images/coolwarm.png)
 
 coolwarm_r
-![coolwarm_r](coolwarm_r.png)
+![coolwarm_r](images/coolwarm_r.png)
 
 copper
-![copper](copper.png)
+![copper](images/copper.png)
 
 copper_r
-![copper_r](copper_r.png)
+![copper_r](images/copper_r.png)
 
 cubehelix
-![cubehelix](cubehelix.png)
+![cubehelix](images/cubehelix.png)
 
 cubehelix_r
-![cubehelix_r](cubehelix_r.png)
+![cubehelix_r](images/cubehelix_r.png)
+
+dark
+![dark](images/dark.png)
+
+deep
+![deep](images/deep.png)
 
 flag
-![flag](flag.png)
+![flag](images/flag.png)
 
 flag_r
-![flag_r](flag_r.png)
+![flag_r](images/flag_r.png)
 
 gist_earth
-![gist_earth](gist_earth.png)
+![gist_earth](images/gist_earth.png)
 
 gist_earth_r
-![gist_earth_r](gist_earth_r.png)
+![gist_earth_r](images/gist_earth_r.png)
 
 gist_gray
-![gist_gray](gist_gray.png)
+![gist_gray](images/gist_gray.png)
 
 gist_gray_r
-![gist_gray_r](gist_gray_r.png)
+![gist_gray_r](images/gist_gray_r.png)
 
 gist_heat
-![gist_heat](gist_heat.png)
+![gist_heat](images/gist_heat.png)
 
 gist_heat_r
-![gist_heat_r](gist_heat_r.png)
+![gist_heat_r](images/gist_heat_r.png)
 
 gist_ncar
-![gist_ncar](gist_ncar.png)
+![gist_ncar](images/gist_ncar.png)
 
 gist_ncar_r
-![gist_ncar_r](gist_ncar_r.png)
+![gist_ncar_r](images/gist_ncar_r.png)
 
 gist_rainbow
-![gist_rainbow](gist_rainbow.png)
+![gist_rainbow](images/gist_rainbow.png)
 
 gist_rainbow_r
-![gist_rainbow_r](gist_rainbow_r.png)
+![gist_rainbow_r](images/gist_rainbow_r.png)
 
 gist_stern
-![gist_stern](gist_stern.png)
+![gist_stern](images/gist_stern.png)
 
 gist_stern_r
-![gist_stern_r](gist_stern_r.png)
+![gist_stern_r](images/gist_stern_r.png)
 
 gist_yarg
-![gist_yarg](gist_yarg.png)
+![gist_yarg](images/gist_yarg.png)
 
 gist_yarg_r
-![gist_yarg_r](gist_yarg_r.png)
+![gist_yarg_r](images/gist_yarg_r.png)
 
 gnuplot
-![gnuplot](gnuplot.png)
+![gnuplot](images/gnuplot.png)
 
 gnuplot2
-![gnuplot2](gnuplot2.png)
+![gnuplot2](images/gnuplot2.png)
 
 gnuplot2_r
-![gnuplot2_r](gnuplot2_r.png)
+![gnuplot2_r](images/gnuplot2_r.png)
 
 gnuplot_r
-![gnuplot_r](gnuplot_r.png)
+![gnuplot_r](images/gnuplot_r.png)
 
 gray
-![gray](gray.png)
+![gray](images/gray.png)
 
 gray_r
-![gray_r](gray_r.png)
+![gray_r](images/gray_r.png)
+
+hls
+![hls](images/hls.png)
 
 hot
-![hot](hot.png)
+![hot](images/hot.png)
 
 hot_r
-![hot_r](hot_r.png)
+![hot_r](images/hot_r.png)
 
 hsv
-![hsv](hsv.png)
+![hsv](images/hsv.png)
 
 hsv_r
-![hsv_r](hsv_r.png)
+![hsv_r](images/hsv_r.png)
+
+husl
+![husl](images/husl.png)
 
 icefire
-![icefire](icefire.png)
+![icefire](images/icefire.png)
 
 icefire_r
-![icefire_r](icefire_r.png)
+![icefire_r](images/icefire_r.png)
 
 inferno
-![inferno](inferno.png)
+![inferno](images/inferno.png)
 
 inferno_r
-![inferno_r](inferno_r.png)
+![inferno_r](images/inferno_r.png)
 
 magma
-![magma](magma.png)
+![magma](images/magma.png)
 
 magma_r
-![magma_r](magma_r.png)
+![magma_r](images/magma_r.png)
 
 mako
-![mako](mako.png)
+![mako](images/mako.png)
 
 mako_r
-![mako_r](mako_r.png)
+![mako_r](images/mako_r.png)
+
+muted
+![muted](images/muted.png)
 
 nipy_spectral
-![nipy_spectral](nipy_spectral.png)
+![nipy_spectral](images/nipy_spectral.png)
 
 nipy_spectral_r
-![nipy_spectral_r](nipy_spectral_r.png)
+![nipy_spectral_r](images/nipy_spectral_r.png)
 
 ocean
-![ocean](ocean.png)
+![ocean](images/ocean.png)
 
 ocean_r
-![ocean_r](ocean_r.png)
+![ocean_r](images/ocean_r.png)
+
+pastel
+![pastel](images/pastel.png)
 
 pink
-![pink](pink.png)
+![pink](images/pink.png)
 
 pink_r
-![pink_r](pink_r.png)
+![pink_r](images/pink_r.png)
 
 plasma
-![plasma](plasma.png)
+![plasma](images/plasma.png)
 
 plasma_r
-![plasma_r](plasma_r.png)
+![plasma_r](images/plasma_r.png)
 
 prism
-![prism](prism.png)
+![prism](images/prism.png)
 
 prism_r
-![prism_r](prism_r.png)
+![prism_r](images/prism_r.png)
 
 rainbow
-![rainbow](rainbow.png)
+![rainbow](images/rainbow.png)
 
 rainbow_r
-![rainbow_r](rainbow_r.png)
+![rainbow_r](images/rainbow_r.png)
 
 rocket
-![rocket](rocket.png)
+![rocket](images/rocket.png)
 
 rocket_r
-![rocket_r](rocket_r.png)
+![rocket_r](images/rocket_r.png)
 
 seismic
-![seismic](seismic.png)
+![seismic](images/seismic.png)
 
 seismic_r
-![seismic_r](seismic_r.png)
+![seismic_r](images/seismic_r.png)
 
 spring
-![spring](spring.png)
+![spring](images/spring.png)
 
 spring_r
-![spring_r](spring_r.png)
+![spring_r](images/spring_r.png)
 
 summer
-![summer](summer.png)
+![summer](images/summer.png)
 
 summer_r
-![summer_r](summer_r.png)
+![summer_r](images/summer_r.png)
 
 tab10
-![tab10](tab10.png)
+![tab10](images/tab10.png)
 
 tab10_r
-![tab10_r](tab10_r.png)
+![tab10_r](images/tab10_r.png)
 
 tab20
-![tab20](tab20.png)
+![tab20](images/tab20.png)
 
 tab20_r
-![tab20_r](tab20_r.png)
+![tab20_r](images/tab20_r.png)
 
 tab20b
-![tab20b](tab20b.png)
+![tab20b](images/tab20b.png)
 
 tab20b_r
-![tab20b_r](tab20b_r.png)
+![tab20b_r](images/tab20b_r.png)
 
 tab20c
-![tab20c](tab20c.png)
+![tab20c](images/tab20c.png)
 
 tab20c_r
-![tab20c_r](tab20c_r.png)
+![tab20c_r](images/tab20c_r.png)
 
 terrain
-![terrain](terrain.png)
+![terrain](images/terrain.png)
 
 terrain_r
-![terrain_r](terrain_r.png)
+![terrain_r](images/terrain_r.png)
 
 twilight
-![twilight](twilight.png)
+![twilight](images/twilight.png)
 
 twilight_r
-![twilight_r](twilight_r.png)
+![twilight_r](images/twilight_r.png)
 
 twilight_shifted
-![twilight_shifted](twilight_shifted.png)
+![twilight_shifted](images/twilight_shifted.png)
 
 twilight_shifted_r
-![twilight_shifted_r](twilight_shifted_r.png)
+![twilight_shifted_r](images/twilight_shifted_r.png)
 
 viridis
-![viridis](viridis.png)
+![viridis](images/viridis.png)
 
 viridis_r
-![viridis_r](viridis_r.png)
+![viridis_r](images/viridis_r.png)
 
 vlag
-![vlag](vlag.png)
+![vlag](images/vlag.png)
 
 vlag_r
-![vlag_r](vlag_r.png)
+![vlag_r](images/vlag_r.png)
 
 winter
-![winter](winter.png)
+![winter](images/winter.png)
 
 winter_r
-![winter_r](winter_r.png)
+![winter_r](images/winter_r.png)
 
