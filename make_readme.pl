@@ -7,7 +7,7 @@ open (my $out_fh, ">", "README.md") or die $!;
 
 print $out_fh "\#\# Seaborn palettes (n = 60)\n\n";
 
-foreach my $png (sort @files) {
+foreach my $png (sort { "\L$a" cmp "\L$b" }  @files) {
     my $name = $png;
     $name =~ s/\.png//;
     $name =~ s/images\///;
